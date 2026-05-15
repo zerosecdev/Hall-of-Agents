@@ -1,3 +1,5 @@
+
+
 # 🛰️ Hall of Agents (AI Powered Intelligence Gathering System)
 
 **Hall of Agents** is a custom-engineered, multi-agent orchestration ecosystem. It doesn't just "chat"; it scrapes, analyzes, and projects real-world infrastructure data into a 3D tactical environment.
@@ -5,9 +7,10 @@
 ---
 
 ## 🎬 Operational Demo
-<!-- This tag allows your video to play directly on GitHub -->
-<video src="media/demo.mp4" width="100%" controls autoplay loop muted></video>
 
+[![Watch the Swarm Reveal](https://github.com/user-attachments/assets/4abb1024-c5f8-406a-af7c-78f8041d3e68)](https://youtube.com/shorts/x8uaYKr9aPI?feature=share)
+
+> **[ 🛰️ CLICK ABOVE TO WATCH THE SHORT ]**
 ---
 
 ## 🧠 Why I built this
