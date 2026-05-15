@@ -44,7 +44,7 @@ The source code for Hall of Agents V9.0 is currently **Private**. I am showcasin
 
 If you are a fellow architect, a security researcher, or just someone who loves high-fidelity engineering, let’s connect.
 
-- **Email:** [Your Email Here]
+- **Email:** Shoaib.CyberDev@gmail.com
 - **X (Twitter):** [@ZeroSecDev2052]([https://x.com/ZeroSecDev2052])
 - **YouTube:** [@@ZeroSec2052]
 
